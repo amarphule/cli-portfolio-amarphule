@@ -1,0 +1,23 @@
+{
+  "name": "amarphule",
+  "version": "1.0.0",
+  "description": "A cli for printing portfolio of Amardeep Phule",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "amarphule": "index.mjs"
+  },
+  "keywords": [
+    "cli",
+    "portfolio",
+    "sample",
+    "project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
